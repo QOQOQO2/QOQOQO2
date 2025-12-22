@@ -1,6 +1,6 @@
 Person I guess
 --------------
 
-Website: https://QOQOQO2.github.io
+Website: http://qoqoqo2.mywire.org/
 
 [![Stuff I guess](https://skillicons.dev/icons?i=nix)](https://skillicons.dev)
